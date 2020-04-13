@@ -1,0 +1,84 @@
+#myapp{
+    background-color: black;
+  /*background-image: linear-gradient(lightyellow,skyblue);*/
+}
+
+.nav-link{
+    color:white;
+}
+
+
+.d-block{
+    height: 350px;
+    width:80%
+}
+
+.carousel-inner{
+    border:2px solid white;
+    border-top-left-radius:20px 20px;
+    border-bottom-right-radius:20px 20px;
+}
+
+#aboutdiv{
+   background-color:lightyellow;
+   height:450px;
+    margin:auto;
+    padding:5px;
+    border:2px solid white;
+    border-top-left-radius:20px 20px;
+    border-bottom-right-radius:20px 20px;
+
+}
+.about-left{
+    width:80%;
+    float:left;
+    padding-left:10px;
+    text-align: justify;
+    /*background-color:yellow;*/
+}
+
+.education{
+    color: #a60f0f;
+    font-size: large;
+    font-weight: bold;
+}
+
+.about-right{
+    width:20%;
+    float:right;
+}
+
+.about-right .img{
+    width:80%;
+    height:80%;
+    float:right;
+    border:1px solid white;
+    border-radius:50%;
+}
+
+.card{
+    margin:10px;
+    padding:10px;
+}
+
+.card img{
+    width:100%;
+    height:150px;
+    border:1px solid black;
+}
+
+
+
+.heading1{
+    text-align:center;
+    background-image:linear-gradient(to right, black,lightyellow,white);
+    border-top-left-radius:20px 20px;
+    border-bottom-left-radius:20px 20px;
+}
+
+
+#footer{
+    width:100%;
+    height:300px;
+    background-color:black;
+}
